@@ -1,13 +1,13 @@
 <h1 align="center">Hola a todos! 🤝 Soy Juan Calderón</h1>
-<h3 align="center">👓 Soy un apasionado por la tecnología y el aprendizaje continuo. Soy un desarrollador Backend con interés en el lenguaje de programación Java y su framework Spring.</h3>
+<h3 align="center">👓 Soy un apasionado por la tecnología y el aprendizaje continuo. Soy un desarrollador Backend con interés en el lenguaje de programación JavaScript usando Nodejs con sus frameworks Nestjs y Express y también Java con su framework Spring.</h3>
 
-- 🔭 Actualmente estoy desarrollando un proyecto personal llamado [MyContactList](https://personal-contact-list.herokuapp.com)
+- 🔭 Actualmente estoy desarrollando un proyecto personal llamado CarsAPI usando Nestjs como framework de Node
 
-- 📖 Estoy aprendiendo y profundizando en tecnologías como **Spring Security, Spring Cloud, Microservicios con Spring Boot y Java Avanzado. También aprendiendo lo básico del desarrollo Fronted como HTML5, CSS3, JS.**
+- 📖 Estoy aprendiendo y profundizando en tecnologías como **Microservicios con Nestjs**
 
 - 👨‍💻 Puedes ver mi perfil de LinkedIn aquí: [https://www.linkedin.com/in/juancalderonx/](https://www.linkedin.com/in/juancalderonx/)
 
-- 💬 Puedes preguntarme por **Java y su framework Spring**
+- 💬 Puedes preguntarme por **Nodejs y Java-Spring**
 
 - 📫 ¿Cómo puedes contactarme? **juanescalderon12@gmail.com**
 
