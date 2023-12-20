@@ -1,5 +1,5 @@
 <h2> Hi There, I'm Juan Esteban! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-I'm a Full Stack Developer 🚀 from Colombia 💛, currently working 👨🏻‍💻 at <em><a href="https://www.soltelec.com/">Soltelec, an CDA Company</a></em> and <em><a href="https://sicte.com/">Sicte, an electricity Company</a></em>.
+I'm a Full Stack Developer 🚀 from Colombia 💛.
 
 
 I'm a passionate learner who loves the code ☕︎. You'll always find me learning something new.
